@@ -189,20 +189,20 @@
                                         <form class="radio-wrap form3">
                                             <div class="north">
                                                 <h4>North Island</h4>
+                                                <label for="radio" data-target="delivery"  data-price="7.50"><input name="delivery"  value="Auckland | 2 - 4 items - $7.50"  type="radio">Auckland | 2 - 4 items - $7.50</label><br>
                                                 <label for="radio" data-target="delivery" data-price="8.50"><input name="delivery"  checked value="North Island | 1 loaf - $8.50" type="radio">North Island | 1 loaf - $8.50 </label><br>
-                                                <label for="radio" data-target="delivery"  data-price="13.50"><input name="delivery"  value="North Island | 2 loaves - $13.50"  type="radio">North Island | 2 loaves - $13.50 </label><br>
-                                                <label for="radio"  data-target="delivery"  data-price="16.50"><input name="delivery"  value="North Island | 4 loaves - $16.50"  type="radio">North Island | 4 loaves - $16.50 </label><br>
-                                                <label for="radio" data-target="delivery"  data-price="7.50"><input name="delivery"  value="Auckland | 2 - 4 loaves - $7.50"  type="radio">Auckland | 2 - 4 loaves - $7.50</label><br>
-                                                <label for="radio" data-target="delivery"  data-price="8.50"><input name="delivery"  value="Whangarei/Hamilton | 2 - 4 loaves - $8.50" type="radio">Whangarei/Hamilton | 2 - 4 loaves - $8.50</label>
+                                                <label for="radio" data-target="delivery"  data-price="13.50"><input name="delivery"  value="North Island | 2 items - $13.50"  type="radio">North Island | 2 items - $13.50 </label><br>
+                                                <label for="radio"  data-target="delivery"  data-price="16.50"><input name="delivery"  value="North Island | 4 items - $16.50"  type="radio">North Island | 4 items - $16.50 </label><br>
+                                                <label for="radio" data-target="delivery"  data-price="8.50"><input name="delivery"  value="Whangarei/Hamilton | 2 - 4 items - $8.50" type="radio">Whangarei/Hamilton | 2 - 4 items - $8.50</label>
                                             </div>
                                             <div class="south">
                                                 <h4>South Island</h4>
                                                 <label for="radio" data-target="delivery"  data-price="9.50"><input name="delivery"  value="South Island | 1 loaf - $9.50"  type="radio">South Island | 1 loaf - $9.50</label><br>
-                                                <label for="radio" data-target="delivery"  data-price="17.50"><input name="delivery" value="South Island | 2 loaves - $17.50"   type="radio">South Island | 2 loaves - $17.50</label><br>
-                                                <label for="radio" data-target="delivery"  data-price="25"><input name="delivery" value="South Island | 2 - 6 loaves - $25.00"  type="radio">South Island | 2 - 6 loaves - $25.00</label>
+                                                <label for="radio" data-target="delivery"  data-price="17.50"><input name="delivery" value="South Island | 2 items - $17.50"   type="radio">South Island | 2 items - $17.50</label><br>
+                                                <label for="radio" data-target="delivery"  data-price="25"><input name="delivery" value="South Island | 2 - 6 items - $25.00"  type="radio">South Island | 2 - 6 items - $25.00</label>
                                             </div>
                                         </form> 
-                                        <p>To ship 2 - 6 loaves to the South Island, leave a message and I can get back to you on shipping costs.</p>
+                                        <p>To ship over 4 items to the South Island, leave a message and I can get back to you on shipping costs.</p>
                                         </div>
         
                                         <div class="pick-wrap hide">

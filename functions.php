@@ -41,13 +41,14 @@
             'type'=>'loaves',
             'image' =>'garlicparmesan2.jpg',
             'details'=>'The aromatic flavors of garlic herbs and cheese. Who needs scones :) A loaf the whole family will enjoy. Crunchy on the top and cheesy in the middle, especially when toasted. Have it with butter! Lots of it!! Made with the very best of Keto ingredients. I generally use thyme, rosemary or oregano but if you have preference you choose!
-
+            <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
+            <br><br>
             
-            Approx 14 slices per loaf
+            Approx 14 slices per loaf<br><br>
             
-            Amounts per serving (2 slices) 
-            Fat 17.3g | Protein 6.8g | Carbs 2.4g | Cal 188.8 | 
+            Amounts per serving (2 slices) <br><br>
+            Fat 17.3g | Protein 6.8g | Carbs 2.4g | Cal 188.8 | <br><br>
             
             Ingredients: Almond meal, eggs, butter, parmesan, garlic (powder), xantham gum, himilayan salt, GF baking powder, sesame seeds (topping).'
         ),
@@ -60,13 +61,14 @@
             'image' =>'Superseed.jpg',
             'details'=>'Kreative Keto Kitchens version of Seed loaf, packed with yummy Super seeds! 
             A great mixture of delicious seeds including, pumpkin, sunflower, sesame, chia and flax seed. Top this with either a sweet or savory topping. Made with GF ingredients and all the very best of keto packed goodies!
-            
+            <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
+            <br><br>
             Approx 14 slices per loaf 
-            
-            Amounts per serving (2 slices) 
+            <br><br>
+            Amounts per serving (2 slices) <br><br>
             Fat 37g | Protein 14g | Carbs 4g | 
+            <br><br>
             
             Ingredients: Almond meal, butter, eggs, MCT oil, chia seeds, sesame seeds, sunflower seeds, pumpkin seeds, flax seeds, Himilayan salt, GF Baking powder, xantham gum.'
         ), 
@@ -77,15 +79,16 @@
             'category'=>'loaves',
             'type'=>'loaves',
             'image' =>'LemonPoppyseedloaf.jpg',
-            'details'=>'freshest of organic lemon zest, butter and eggs, toasted with lashings of butter !
+            'details'=>'This is the best lemon poppy seed loaf ever! Made with almond meal, the freshest of organic lemon zest, butter and eggs - toasted with lashings of butter !!
+            <br><br>
 
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
+            <br><br>
             Approx 14 slices per loaf
-            
-            Amounts per serving 
+            <br><br>
+            Amounts per serving <br><br>
             Fat 37g | Protein 14g | Carbs 4g | 
-            
+            <br><br>
             Ingredients: Almond meal, GF baking powder, erythritol, poppy seeds, lemon zest, lemon juice, butter, eggs'
         ), 
 
@@ -95,16 +98,15 @@
             'category'=>'loaves',
             'type'=>'loaves',
             'image' =>'Gingerloaf.jpg',
-            'details'=>'enough to consider this as a delicious treat! Warmed with butter .. or make your own cream cheese icing... using double cream, a dash of vanilla, cream cheese and lemon rind! 
-            Once again crafted with the very best of Keto ingredients. 
-            
+            'details'=>'A fabulous ginger loaf using fresh and powdered ginger.. certainly not sweet but enough to consider this as a delicious treat! Warmed with butter .. or make your own cream cheese icing... using double cream, a dash of vanilla, cream cheese and lemon rind!Once again crafted with the very best of Keto ingredients. All items are packaged with care using compostable, bleach free bio degradable packaging. 
+            <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
+            <br><br>
             Approx 14 slices per loaf 
-            
-            Amounts per serving (1 slice) 
+            <br><br>
+            Amounts per serving (1 slice) <br><br>
             Fat 17.25g | Protein 5g | Carbs 2g | Cal 180.83 | 
-            
+            <br><br>
             Ingerdients: Almond meal, GF baking powder, ginger powder and fresh, mixed spice, cinnamon, walnuts (topping), butter, eggs, vanilla essence, erythritol.'
         ), 
 
@@ -116,14 +118,14 @@
             'image' =>'Blueberryloaf.jpg',
             'details'=>'Keto Blueberry loaf or Raspberry (you choose - made with organic blueberries & raspberries and the very best of Keto ingredients, including free range eggs, butter from grass fed cows, coconut flour. And it doesn’t taste eggy! 
             Serve with whipped cream or your own icing (use heavy whipped cream, butter, vanilla and a dash of lemon rind). This loaf comes unsliced for freshness. 
-            
+            <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
+            <br><br>
             Approx 14 slices per loaf 
-            
-            Amounts per serving (1 slices) 
+            <br><br>
+            Amounts per serving (1 slices) <br><br>
             Fat 11.1g | Protein 3g | Carbs 1.7g | Cal 133 | 
-            
+            <br><br>
             Ingredients: Coconut flour, butter, eggs, blueberries (or raspberries), cinnamon, sour cream, heavy whipping cream, erythritol, vanilla essence, GF baking powder'
         ), 
 
@@ -134,14 +136,14 @@
             'type'=>'loaves',
             'image' =>'Optionvariantforblueberryloaf2.jpg',
             'details'=>'Keto Blueberry loaf or Raspberry (you choose - made with organic blueberries & raspberries and the very best of Keto ingredients, including free range eggs, butter from grass fed cows, coconut flour. And it doesn’t taste eggy! 
-            Serve with whipped cream or your own icing (use heavy whipped cream, butter, vanilla and a dash of lemon rind). This loaf comes unsliced for freshness. 
+            Serve with whipped cream or your own icing (use heavy whipped cream, butter, vanilla and a dash of lemon rind). This loaf comes unsliced for freshness. <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
+            <br><br>
             Approx 14 slices per loaf 
-            
-            Amounts per serving (1 slices) 
+            <br><br>
+            Amounts per serving (1 slices) <br><br>
             Fat 11.1g | Protein 3g | Carbs 1.7g | Cal 133 | 
-            
+            <br><br>
             Ingredients: Coconut flour, butter, eggs, blueberries (or raspberries), cinnamon, sour cream, heavy whipping cream, erythritol, vanilla essence, GF baking powder.'
         ), 
 
@@ -152,13 +154,13 @@
             'type'=>'loaves',
             'image' =>'Chocvanillamarble2.jpg',
             'details'=>'What more could you want? Maybes some thickened cream, a slab of butter? Picture says it all really - a buttery, chocolatey taste sensation! This loaf is extremely moist! 
-
+            <br><br>
             Approx 14 slices per loaf 
-            
+            <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
-            Amounts per serving (2 slices) 
-            Fat 14.74g | Protein 7.3g | Carbs 3.3g | 
+            <br><br>
+            Amounts per serving (2 slices) <br><br>
+            Fat 14.74g | Protein 7.3g | Carbs 3.3g | <br><br>
             
             Ingredients: Almond meal, eggs, erythritol, vanilla essence, sour cream, GF baking powder, himilayan salt, 100% cocoa, water.'
         ), 
@@ -169,34 +171,35 @@
             'category'=>'loaves',
             'type'=>'loaves',
             'image' =>'Bapsorbuns.jpg',
-            'details'=>'pizzas. Super filling as they contain ground flax seed - and a hint of mozzarella. I have experimented with a few but these are the winners. 
-
-            Mixture makes 4 large or 6 small 
+            'details'=>'These versatile rolls are super yum! Can be used as hamburger buns to mini pizzas. Super filling as they contain ground flax seed - and a hint of mozzarella. I have experimented with a few but these are the winners! Makes 4 large or 6 small. 
+            <br><br>
+            Mixture makes 4 large or 6 small <br><br>
             
-            All items are packaged with care using using compostable, bleach free bio degradable packaging. 
+            All items are packaged with care using using compostable, bleach free bio degradable packaging. <br><br>
             
-            Amounts per serving (1 large roll) 
+            Amounts per serving (1 large roll) <br><br>
             Fat 18g | Protein 10.7g | Carbs 2.3g | 
-            
+            <br><br>
             Ingredients: almond meal, psyllium husk, GF baking powder, nutritional yeast, himilayan salt, AC vinegar, egg whites, water, xantham gum.'
         ), 
 
         'donuts'=>array(
             'title'=>'Donuts',
             'price'=> 20.00,
-            'category'=>'loaves',
+            'category'=>'sweet treats',
             'type'=>'treats',
             'image' =>'donuts.jpg',
             'details'=>'Who would have thought? Low carb donuts - the softest of vanilla goodness - a keto version of the good old donut, using almond meal! 
-
-            These moist goodies come in a selection pack of 2 chocolate frosted, 2 chocolate chip, 3 cinnamon sugar - or 4 of your choice. Specify in the checkout process what you would like included in your donut order. 
-            
+            These moist goodies come in a selection pack of 2 chocolate frosted, 2 chocolate chip, 3 cinnamon sugar - or 4 of your choice. Specify in the checkout process what you would like included in your donut order. <br>Pick up only for the chocolate frosted donuts.
+            <br><br>
+            7 donuts per pack <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
-            Amounts per serving (choc frosted) 
-            Fat 14.2g | Protein 4.2g | Carbs 1.6g | Cal 157 | Amounts per serving (cinnamon sweetened) 
+            <br><br>
+            Amounts per serving (choc frosted) <br><br>
+            Fat 14.2g | Protein 4.2g | Carbs 1.6g | Cal 157 | <br><br>
+            Amounts per serving (cinnamon sweetened) <br><br>
             Fat 12.4g Protein 4.0g Carbs 1.02g Cal 135 
-            
+            <br><br>
             Ingredients:Almond meal, erythritol, vanilla essence, baking powder, butter, cream, eggs, cinnamon (choc frosting - cocoa 100%, cream, erythritol'
         ), 
 
@@ -208,14 +211,14 @@
             'image' =>'choccycinammonbuns2.jpg',
             'details'=>'Try these toasted with butter, the fragrant spices of cinnamon, nutmeg and ginger, once warmed the chocolate chips ooze gooey goodness. 
             These arent loaded with fruit or sugar, but they are yum, with the perfect amount of spices, sweetness (erythritol), dense and super moist! and even better freezable! So you can make them last!! Please note: These are flattish type buns - in no way are they supposed to be big and fat like other grain and preservative filled buns! They do however taste amazing! 
-            
+            <br><br>
             Six buns per order 
-            
+            <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
-            Amounts per serving (1 bun) 
+            <br><br>
+            Amounts per serving (1 bun) <br><br>
             Fat 14g | Protein 9g | Carbs 2g | Cal 285 | 
-            
+            <br><br>
             Ingredients: Almond Meal, Psyllium Husk, GF baking powder, nutritional yeast, cinnamon, ginger, mixed spice (powders), vanilla essence, egg whites, erythritol, water, healtheries milk choc sugar free chips. Please advise if you would prefer Lindt'
         ), 
 
@@ -226,14 +229,14 @@
             'type'=>'cookies',
             'image' =>'Chocchipbiscuit2.jpg',
             'details'=>'These gems are a fabulous sweet treat, and are oh so worth it! Bite into buttery chocolatey goodness, I have tried a few keto cookie recipe options but this is by far my favourite. Uses Erythritol. 
-
+            <br><br>
             12 - 13 Cookies per order 
-            
+            <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
-            Amounts per serving (1 cookie) 
+            <br><br>
+            Amounts per serving (1 cookie) <br><br>
             Fat 14.8g | Protein 3.4g | Carbs 1.7g | Cal 180 | 
-            
+            <br><br>
             Ingredients: Almond meal, butter, erythritol, vanilla essence, egg, GF baking powder, xantham gum, salt, sugar free choc chips.'
         ), 
 
@@ -244,14 +247,14 @@
             'type'=>'cookies',
             'image' =>'Superfudgybrownie2.jpg',
             'details'=>'I would say this would be the best keto version of a chocolatey Fudgy brownie! It almost tops my choc chip cookies and at 1 carb per piece - why not have 2 pieces! Try it warmed with double cream, oh my! Using the very best of Keto ingredients, a great addition to your loaf order. 
-
+            <br><br>
             Approx 16 pieces per order 
-            
+            <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
-            Amounts per serving (1 slice) 
+            <br><br>
+            Amounts per serving (1 slice) <br><br>
             Fat 9.6g | Protein 2.13g | Carbs 1.06g | Cal 108.8 | 
-            
+            <br><br>
             Ingredients: Butter, erythritol, 100% cocoa, himilayan salt, eggs, GF Baking powder, almond meal, vanilla essence, water.'
         ), 
 
@@ -262,14 +265,14 @@
             'type'=>'cookies',
             'image' =>'doublechocchip.jpg',
             'details'=>'For all you chocolate lovers, have no fear you aren’t missing a thing! I have combined the best of Cocoa powders, sugar free choc chips, almond meal with toasted coconut, and a smattering of salt to make a buttery, chocolate mouthful of low carb goodness. 
-
+            <br><br>
             Approx 12 - 14 cookies per order 
-            
+            <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
-            Amounts per serving (1 cookie) 
+            <br><br>
+            Amounts per serving (1 cookie) <br><br>
             Fat 10g | Protein 4g | Carbs 1.5g | 
-            
+            <br><br>
             Ingredients: Butter, 100% cocoa, erythritol, coconut, eggs, almond meal, himilayan salt, vanilla essence, GF baking powder, xantham gum, sugar free chocolate chips.'
         ), 
         
@@ -281,14 +284,14 @@
             'image' =>'cheesecakebrownie.jpg',
             'details'=>'With the flavors of chocolate, raspberries, and cheesecake combined into one low carb grain free slice, this one is a winner! 
             Using a combination of almond and coconut flours, sugar free chocolate and cream cheese and butter, topped with raspberries (or boysenberries). These treats are a taste sensation. 
-            
+            <br><br>
             Approx 15 slices 
-            
+            <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
-            Amounts per serving (1 slice) 
+            <br><br>
+            Amounts per serving (1 slice) <br><br>
             Fat 9.6g | Protein 3.2g | Carbs 2.13g | Cal 185.6 | 
-            
+            <br><br>
             Ingredients: Butter, eggs, water, erythritol, almond meal, vanilla essence, 100% cocoa, coconut flour, GF baking powder, xantham gum, himilayan salt, raspberries, cream cheese, sugar free choc chips.'
         ), 
 
@@ -298,15 +301,15 @@
             'category'=>'sweet treats',
             'type'=>'treats',
             'image' =>'Kokonutice2.jpg',
-            'details'=>'Need I say more, good old traditional Coconut Ice! Double layered sweet coconut goodness, with a hint of raspberry and vanilla. Keep me refigerated! 
-
+            'details'=>'Need I say more, good old traditional Coconut Ice! Double layered sweet coconut goodness, with a hint of raspberry and vanilla. Keep me refigerated! <br>Pick up only. 
+            <br><br>
             Approx 15 slices 
-            
+            <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
-            Amounts per serving (1 slice) 
+            <br><br>
+            Amounts per serving (1 slice) <br><br>
             Fat 15.9g | Protein 0.7g | Carbs 0.8g | Cal 154.6 | 
-            
+            <br><br>
             Ingredients: Coconut, erythritol, vanialla essence, raspberry essence, coconut oil.'
         ), 
 
@@ -317,14 +320,14 @@
             'type'=>'treats',
             'image' =>'Spicedcoffeemuffins.jpg',
             'details'=>'The picture says it all... Cinnamon all spiced coffee moist muffins. One bite into this and you hit the crunchy buttery walnut topping, finishing off with spiced coffee muffin goodness... serve warmed with lashings of butter! 
-
+            <br><br>
             Approx 10 muffins per order 
-            
+            <br><br>
             All items are packaged with care using using compostable, bleach free bio degradable packaging. 
-            
-            Amounts per serving (1 slice) 
+            <br><br>
+            Amounts per serving (1 slice) <br><br>
             Fat 16g | Protein 5g | Carbs 2g | Cal 191 | 
-            
+            <br><br>
             Ingredients: Almond Meal, Coconut flour, erythritol. butter, baking powder, salt, cinnamon, mixed spice, coffee, walnuts, water, eggs.'
         ), 
 

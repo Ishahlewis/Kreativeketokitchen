@@ -14,7 +14,7 @@
 
 	// Array ( [email] => [name] => [text] => [message] => dd [delivery] => 10 [subject] => ee )
 	$data = $_GET;
-	$adminEmail = 'miriam@kreativeketokitchen.com';
+	$adminEmail = 'miriam@kreativeketokitchen.co.nz';
 	$customerEmail = $data['email'];
 	$name = $data['name'];
 	$text = $data['text'];

@@ -651,14 +651,15 @@ input[type="submit"]:focus-within{
     padding-bottom: 1em;
 }
 
-.my-cart .cart-items div{
+ .wrapper .my-cart .cart-items div{
     border: 1px solid black;
-    height:3em;
+    height:2em;
     margin-bottom: 1em;
     margin-right: 1em;
     position: relative;
     padding: 1em 1em 2em 1em;
     align-content: center;
+
 }
 
 .cart-items div i{
@@ -2315,7 +2316,7 @@ label.error {
     .ms-container .wrapper{
         width: 100%;
         margin:0 auto;
-        height: 45em;
+        height: 55em;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -2325,9 +2326,21 @@ label.error {
         position: relative;
     }
 
+    .wrapper .my-cart .cart-items div{
+        height: .5em;
+        padding: 0em 1em 2em 1em;
+    }
+
+    .cart-items div i{
+        font-size: 1.5em;
+        position: absolute;
+        right: 0.2em;
+        bottom: 0.2em;
+    }
+
     .wrapper .my-cart{
         border-right: none;
-        flex: 1 0 30%;
+        flex: 0 0 30%;
     }
 
     .wrapper .my-cart .back-to-shop{
@@ -2338,7 +2351,7 @@ label.error {
         overflow:scroll;
         border: 1px dotted black;
         border-radius: .5em;
-        flex: 1 0 60%;
+        flex: 1 0 50%;
 
     }
 
@@ -2383,8 +2396,6 @@ label.error {
         transition: all ease 1s;
     }
 
-
-    
     .open{
         right:0;
         transition: all ease 1s;
