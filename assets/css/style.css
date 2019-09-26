@@ -859,6 +859,14 @@ input[type="submit"]:focus-within{
     margin-right: .5em;
 }
 
+.checkout.radio .pick-wrap .pick-up{
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.checkout.radio .pick-wrap .pick-up input{
+    margin-right:.5em;
+}
 
 
 
@@ -1278,7 +1286,7 @@ transform: scale(1.5, 1.5);
     padding:6em 2em 2em 2em;
     display: flex;
     flex-direction: column;
-    transition: all ease 1s;
+    transition: right ease 1s !important ;
 }
 
 .open{
@@ -1320,47 +1328,26 @@ transform: scale(1.5, 1.5);
     margin-bottom: 1em;
 }
 
-.ms-popup_cart .amount{
+.ms-popup_cart .option .top-popup{
+    position: relative;
+    height: 5em;
     margin-bottom: 2em;
+    padding: none;
 }
 
-.ms-popup_cart .amount label{
-    font-size: 1.2em;
-    font-weight: bold;
+.ms-popup_cart .option .top-popup .amount{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-bottom: .5em;
 }
 
-.ms-popup_cart .amount input{
-    margin-left: .5em;
-    outline-style: none;
-    border: none;
-    background-color: transparent;
-    border-bottom:1px dotted black;
-    width: 4em;
+.ms-popup_cart .option .top-popup-button{
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
 
-.ms-popup_cart button{
-    padding: .8em;
-    background-color: #FA821A;
-    color: #fff;
-    font-size: 1em;
-    text-transform: uppercase;
-}
-
-.popup-form{
-    border:1px solid blue;
-    display: flex;
-}
-
-.popup-form .submit-check{
-    height: 3em;
-    background-color: #FA821A;
-    border: none;
-    flex: 1 0 40%;
-    color: white;
-}
-.popup-form .amount{
-    flex: 1 0 50%;
-}
 
 /* POPUP */
 
@@ -1409,6 +1396,7 @@ article.ms-section {
     margin: 0 -15px 0px;
     color: #fff;
 }
+
 .contrast-bg__black .ms-section__block,
 .contrast-bg__grey .ms-section__block {
     margin: 0 auto;
@@ -2058,6 +2046,12 @@ label.error {
     display: inline-block;
     font-weight: 300;
 }
+
+
+
+
+
+
 
 /**
  * 11. Responsive rules

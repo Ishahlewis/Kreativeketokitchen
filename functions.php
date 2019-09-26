@@ -331,6 +331,42 @@
             Ingredients: Almond Meal, Coconut flour, erythritol. butter, baking powder, salt, cinnamon, mixed spice, coffee, walnuts, water, eggs.'
         ), 
 
+        'caramel-yoyo'=>array(
+            'title'=>'Caramelized white chocolate yo-yo',
+            'price'=> 23.00,
+            'category'=>'cookies + brownie',
+            'type'=>'cookies',
+            'image' =>'caramel-yoyo.jpg',
+            'details'=>'Whats better than one cookie? 2 Cookies! Imagine 2 coconut vanilla buttery cookies sandwiched together with a caramelized white chocolate filling! All sugar free of course!!
+            12 really decent sized double cookies.
+            <br><br>
+            Amounts per serving x 12 (1 double cookie)
+            <br><br>
+            All items are packaged with care using using compostable, bleach free bio degradable packaging. 
+            <br><br>
+            Amounts per serving (1 slice) <br><br>
+            Fat 24g | Protein 6g | Carbs 3g | Cal 267 | 
+            <br><br>
+            Ingredients: Vitawerx white choc, erythritol, butter, eggs, flaked coconut, cream, GF baking powder, vanilla essence, almond meal.'
+        ), 
+        'banana-chch'=>array(
+            'title'=>'Banana Choc Chip Muffins',
+            'price'=> 23.00,
+            'category'=>'sweet treats',
+            'type'=>'treats',
+            'image' =>'banana-chch.jpg',
+            'details'=>'Imagine being able to eat bananas again.. A light fluffy muffin combining the best of Keto ingredients, flavoured with sugar free, carb free banana flavouring! chocolate chips and a hint of cinnamon! Served warmed with butter or just on its own!
+            <br><br>
+            Comes with 12 muffins
+            <br><br>
+            All items are packaged with care using using compostable, bleach free bio degradable packaging. 
+            <br><br>
+            Amounts per serving (1 slice) <br><br>
+            Fat 21g | Protein 5g | Carbs 2.8g | Cal 258 | 
+            <br><br>
+            Ingredients: Almond meal, coconut flour, erythritol, sugar free choc chips, banana drops, butter, egg, cream cheese, almond milk, cinnamon, GF Baking powder.'
+        ),
+
 
         
     );

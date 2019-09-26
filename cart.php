@@ -189,8 +189,9 @@
                                         <form class="radio-wrap form3">
                                             <div class="north">
                                                 <h4>North Island</h4>
+                                                <label for="radio" data-target="delivery" data-price="0"><input name="delivery"  value="Pick up - Remuera, Auckland"  type="radio">Pick up - Remuera, Auckland</label><br>
                                                 <label for="radio" data-target="delivery"  data-price="7.50"><input name="delivery"  value="Auckland | 2 - 4 items - $7.50"  type="radio">Auckland | 2 - 4 items - $7.50</label><br>
-                                                <label for="radio" data-target="delivery" data-price="8.50"><input name="delivery"  checked value="North Island | 1 loaf - $8.50" type="radio">North Island | 1 loaf - $8.50 </label><br>
+                                                <label for="radio" data-target="delivery" data-price="8.50"><input name="delivery"  value="North Island | 1 loaf - $8.50" type="radio">North Island | 1 loaf - $8.50 </label><br>
                                                 <label for="radio" data-target="delivery"  data-price="13.50"><input name="delivery"  value="North Island | 2 items - $13.50"  type="radio">North Island | 2 items - $13.50 </label><br>
                                                 <label for="radio"  data-target="delivery"  data-price="16.50"><input name="delivery"  value="North Island | 4 items - $16.50"  type="radio">North Island | 4 items - $16.50 </label><br>
                                                 <label for="radio" data-target="delivery"  data-price="8.50"><input name="delivery"  value="Whangarei/Hamilton | 2 - 4 items - $8.50" type="radio">Whangarei/Hamilton | 2 - 4 items - $8.50</label>
@@ -207,7 +208,7 @@
         
                                         <div class="pick-wrap hide">
                                             <h5>Arrange pickup</h5>
-                                            As I have a day job and a busy schedule, catching me at home can be very hit and miss however if you would prefer to pick up your order, text or email me to arrange a time. 
+                                            As I have a day job and a busy schedule, catching me at home can be very hit and miss however if you would prefer to pick up your order, text or email me to arrange a time. To set your order to pick up, select the pick up option located under 'North Island' under delivery options.
                                         </div>
         
                                         <div class="col-md-6 layer-3">

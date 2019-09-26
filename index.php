@@ -123,6 +123,29 @@
                                                         <h3><?php echo $product['title'] ?> | $<?php echo number_format($product['price'],2) ?></h3>    
                                                         <h6><?php echo $product['category'] ?></h6>  
                                                     </div>
+
+                                                    <div>
+                                                        <form class="top-popup" action="addToCart.php" method="post">
+                                                            <div class="col-md-6 amount">
+                                                                <label for="text">Quantity
+                                                                <select name="Quantity" class="quantity">
+                                                                    <option value="1">1</option>
+                                                                    <option value="2">2</option>
+                                                                    <option value="3">3</option>
+                                                                    <option value="4">4</option>
+                                                                </select>
+                                                            
+                                                                </label>
+                                                            </div>
+                                                            <input type="hidden" name="product-key" value="<?php echo $key ?>">
+
+                                                            <div class="col-md-6 top-popup-button">
+                                                                <div class="ms-btn__square submit-check">
+                                                                    <input type="submit" value="Add to Cart">
+                                                                </div>
+                                                            </div>
+                                                        </form>
+                                                    </div>
                         
                                                     <div class="product-details">
                                                         <h4>Product details</h4>
@@ -131,34 +154,6 @@
                                                             <?php echo $product['details'] ?>
                                                         </p>
                                                     </div>
-
-                                                    <div>
-
-                                                        <form action="addToCart.php" method="post">
-
-                                                            <div class="col-md-12 amount">
-                                                                <label for="text">Quantity
-                                                                <select name="Quantity" class="quantity">
-                                                                    <option value="1">1</option>
-                                                                    <option value="2">2</option>
-                                                                    <option value="3">3</option>
-                                                                </select>
-                                                            
-                                                                </label>
-                                                            </div>
-                                                            <input type="hidden" name="product-key" value="<?php echo $key ?>">
-
-                                                            <div class="col-md-6">
-                                                                <div class="ms-btn__square submit-check">
-                                                                    <input type="submit" value="Add to Cart">
-                                                                </div>
-                                                            </div>
-                                                            
-
-                                                        </form>
-                                                       
-                                                    </div>
-
                                         </div>
 
                                     <?php endforeach ?>
